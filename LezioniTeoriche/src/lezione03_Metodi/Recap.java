@@ -1,0 +1,13 @@
+package lezione03_Metodi;
+
+public class Recap {
+	
+	public static int metodoCheRestituisce() {
+		return 6;
+	}
+	
+public static void main(String[] args) {
+	metodoCheRestituisce();
+}
+
+}
